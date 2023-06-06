@@ -1,7 +1,14 @@
+"""
+Find largest prime factor.
+"""
+
 from math import floor, sqrt
 
 
 def largest_prime_factor(dividend: int) -> int:
+    """
+    Find largest prime factor.
+    """
     current_dividend = dividend
 
     # dividend = 1
