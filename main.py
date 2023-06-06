@@ -2,6 +2,8 @@
 Scratch module for testing.
 """
 
-from src.py_euler.largest_prime_factor import largest_prime_factor
+from src.py_euler.palindrome_product import largest_palindrome_product
 
-print(largest_prime_factor(13195))
+print(largest_palindrome_product(2))
+print(largest_palindrome_product(3))
+print(largest_palindrome_product(4))
