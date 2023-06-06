@@ -3,7 +3,7 @@ Tests for calculations on Fibonacci sequence.
 """
 
 import unittest
-from fibonacci import (
+from src.py_euler.fibonacci import (
     fibonacci_nth,
     fibonacci_nth_even,
     fibonacci_sum_upto_even

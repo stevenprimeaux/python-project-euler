@@ -3,7 +3,7 @@ Tests for calculation of largest prime factor.
 """
 
 import unittest
-from largest_prime_factor import largest_prime_factor
+from src.py_euler.largest_prime_factor import largest_prime_factor
 
 
 class TestLargestPrimeFactor(unittest.TestCase):

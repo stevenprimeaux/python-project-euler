@@ -1,8 +1,7 @@
 """
-Provide logic for top-level execution.
+Scratch module for testing.
 """
 
-from sum_divisible_by import sum_divisible_by_2
+from src.py_euler.largest_prime_factor import largest_prime_factor
 
-
-print(f"{sum_divisible_by_2(1000, 3, 5)}")
+print(largest_prime_factor(13195))

@@ -3,7 +3,7 @@ Tests for sum of multiples.
 """
 
 import unittest
-from sum_divisible_by import sum_divisible_by_2
+from src.py_euler.sum_divisible_by import sum_divisible_by_2
 
 
 class TestSumDivisibleBy2(unittest.TestCase):
