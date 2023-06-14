@@ -1,6 +1,4 @@
-"""
-Scratch module for testing.
-"""
+"""Scratch module for testing."""
 
 from src.py_euler.palindrome_product import largest_palindrome_product
 
